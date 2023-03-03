@@ -1,0 +1,10 @@
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\bin\Debug\AbrenicaBlogDB.dacpac
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\bin\Debug\AbrenicaDB.dll
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\bin\Debug\AbrenicaDB.pdb
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\obj\Debug\AbrenicaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\obj\Debug\AbrenicaDB.dll
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\obj\Debug\AbrenicaDB.pdb
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\obj\Debug\Model.xml
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\obj\Debug\refactor.xml
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\obj\Debug\postdeploy.sql
+C:\Users\james\Source\Repos\ABRENICALE2\AbrenicaDB\obj\Debug\predeploy.sql
